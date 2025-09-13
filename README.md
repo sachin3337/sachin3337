@@ -1,5 +1,16 @@
-Sachin Ghusinge - Full Stack Developer
+# Hi 👋, I'm Sachin Ghusinge
+Full Stack Developer | MERN Stack Specialist
 
-About Me
+🌱 I’m currently learning **Advanced React Patterns**, **Node.js Optimization**, and **Cloud Deployment Strategies**  
 
-I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building scalable and user-friendly web applications and turning complex problems into clean, efficient code.
+💬 Ask Me About: **MERN Stack, JavaScript, Node.js, React, MongoDB, Express.js, Git, REST APIs**  
+
+📫 Reach me at: **sachinsubhashghusinge@example.com**  
+
+🛠️ Future Goals: **Build scalable full-stack applications, explore Cloud & DevOps, and dive into AI integration for web apps**  
+
+## Connect with me:
+[GitHub](https://github.com/sachinsubhashghusinge) | [LinkedIn](https://linkedin.com/in/sachin-ghusinge) | [Portfolio](#)
+
+## Languages and Tools:
+**JavaScript, Node.js, React, MongoDB, Express.js, HTML, CSS, Bootstrap, TailwindCSS, Git, Postman, Docker, Linux**
