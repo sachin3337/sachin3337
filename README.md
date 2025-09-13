@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sachin Ghusinge
+Hi, I'm Sachin Ghusinge.
 Full Stack Developer | MERN Stack Specialist
 
 🌱 I’m currently learning **Advanced React Patterns**, **Node.js Optimization**, and **Cloud Deployment Strategies**  
@@ -7,8 +7,8 @@ Full Stack Developer | MERN Stack Specialist
 
 📫 Reach me at: **sachinsubhashghusinge@example.com**  
 
-## Languages and Tools:
-**JavaScript, Node.js, React, MongoDB, Express.js, HTML, CSS, Bootstrap, TailwindCSS, Git, Postman
+ Languages and Tools:
+ JavaScript, Node.js, React, MongoDB, Express.js, HTML, CSS, Bootstrap, TailwindCSS, Git, Postman
 
-## Connect with me:
+ Connect with me:
 [GitHub](https://github.com/sachinsubhashghusinge) | [LinkedIn](https://linkedin.com/in/sachin-ghusinge) | [Portfolio](#)
