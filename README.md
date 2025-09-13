@@ -7,10 +7,8 @@ Full Stack Developer | MERN Stack Specialist
 
 📫 Reach me at: **sachinsubhashghusinge@example.com**  
 
-🛠️ Future Goals: **Build scalable full-stack applications, explore Cloud & DevOps, and dive into AI integration for web apps**  
+## Languages and Tools:
+**JavaScript, Node.js, React, MongoDB, Express.js, HTML, CSS, Bootstrap, TailwindCSS, Git, Postman
 
 ## Connect with me:
 [GitHub](https://github.com/sachinsubhashghusinge) | [LinkedIn](https://linkedin.com/in/sachin-ghusinge) | [Portfolio](#)
-
-## Languages and Tools:
-**JavaScript, Node.js, React, MongoDB, Express.js, HTML, CSS, Bootstrap, TailwindCSS, Git, Postman, Docker, Linux**
