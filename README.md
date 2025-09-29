@@ -4,7 +4,7 @@ Full Stack Developer | MERN Stack Specialist
 
 💻 I’m currently learning **Advanced React Patterns**, **Node.js Optimization**, and **Cloud Deployment Strategies**  
 
-💬 Ask Me About: **MERN Stack, JavaScript, Node.js, React, MongoDB, Express.js, Git, REST APIs**  
+💬 Ask Me About: **MERN Stack, JavaScript, Node.js, React, MongoDB, Express.js, Git, REST APIs, Postman**  
 
 🌐 Reach me at:    **sachinsubhashghusinge@gmail.com**  
 
